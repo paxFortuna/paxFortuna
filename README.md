@@ -1,4 +1,7 @@
-#Welcome to paxFortuna's World!!!👋
+# Welcome to **paxFortuna**'s *World*!!!👋
+
+<img src="C:\Users\user\Pictures\8_tarot_휠\astroWheel.png" width="400">
+
 
 <!--
 **paxFortuna/paxFortuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
