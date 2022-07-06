@@ -1,6 +1,6 @@
 # Welcome to **paxFortuna**'s *World*!!!👋
 
-<img src="C:\Users\user\Pictures\8_tarot_휠\astroWheel.png", width="400">
+<img src="C:\Users\user\Pictures\8_tarot_휠\astroWheel.png" width="400" alignment=center>
 
 
 <!--
