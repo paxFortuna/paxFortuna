@@ -1,16 +1,16 @@
 # Welcome to the **paxFortuna**'s *World*!!!👋
 * paxFortuna means that there is peace with the goddes of fortune!!
 - Pax is the goddness of peace and Fortuna is the goddess of fortune in Roman mythology!
- 
+___
 # Symbol
 |Symbol|Description|
 |:--:|:--:|
 |<img src="https://avatars.githubusercontent.com/u/106506835?v=4" width="100">|This Fortuna's Wheel is a combination of the zodiac and the 12gigi of the East!|
-
+___
 # More info
 * click here
 Click [here] (https://www.youtube.com/watch?v=vwOxf827CBo)
-
+___
 # May you be honored with PaxFortuna!!
 
 <!--
