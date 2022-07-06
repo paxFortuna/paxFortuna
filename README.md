@@ -1,6 +1,6 @@
 # Welcome to the **paxFortuna**'s *World*!!!👋
-* paxFortuna means that there is peace with the goddes of fate & good fortune!!
-- Pax is the goddness of peace and Fortuna is the goddess of fate & good fortune in Roman mythology!
+* paxFortuna means that there is peace with the goddes of fortune!!
+- Pax is the goddness of peace and Fortuna is the goddess of fortune in Roman mythology!
  
 # Symbol
 |Symbol|Description|
@@ -10,6 +10,8 @@
 # More info
 * click here
 Click [here] (https://www.youtube.com/watch?v=vwOxf827CBo)
+
+# May you be honored with PaxFortuna!!
 
 <!--
 **paxFortuna/paxFortuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
