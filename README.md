@@ -5,7 +5,7 @@
 # Symbol
 |Symbol|Description|
 |:--:|:--:|
-|<img src="C:\Users\user\Pictures\8_tarot_휠\astroWheel.png" width="100">|This Fortuna's Wheel is a combination of the zodiac <br>and the 12gigi of the East!|
+|<img src="C:\Users\user\Pictures\tarot_wheels\astroWheel.png" width="100">|This Fortuna's Wheel is a combination of the zodiac and the 12gigi of the East!|
 
 
 <!--
