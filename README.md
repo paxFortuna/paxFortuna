@@ -7,6 +7,10 @@ ___
 |:--:|:--:|
 |<img src="https://avatars.githubusercontent.com/u/106506835?v=4" width="100">|This Fortuna's Wheel is a combination of the zodiac and the 12gigi of the East!|
 ___
+#open jdk download
+Click [here] [Uploading java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86_64.zip…]()
+
+___
 # More Info
 Click [here] (https://www.youtube.com/watch?v=vwOxf827CBo)
 ___
